@@ -1,7 +1,7 @@
 ### Git-alias
 
 ## [alias]
-	- ci = commit -m
+- ci = commit -m
 	- st = status -sb
 	- undo = checkout --
 	- rollback = reset --soft 
